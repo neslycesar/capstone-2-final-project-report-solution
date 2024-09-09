@@ -1,7 +1,0 @@
-Feature: The top most important features are 'Call Duration', 'Previous Campaign Outcome', 'Age', 'Month', 'Balance', 'Housing Loan',
-Best Model: Gradient Boosting Algorithm
-Best Hyperparameters: {'learning_rate': 0.2, 'n_estimators': 200, 'max_depth': 3, 'max_features': 2},
-Accuracy Score: 0.901,
-F1 Score: 0.476,
-Precision Score: 0.623,
-Recall Score: 0.386
